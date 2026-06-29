@@ -115,10 +115,6 @@ STM32-BitBanging/
 - CRC Support
 - Additional Protocol Implementations
 
-## License
-
-MIT License
-
 ## Author
 
 **Harish S**
