@@ -122,5 +122,7 @@ MIT License
 ## Author
 
 **Harish S**
+**Dinesh Kumaran K**
+**Ramkumar p**
 
 Embedded Systems | Bare-Metal Firmware | PCB Design
